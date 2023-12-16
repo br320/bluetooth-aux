@@ -4,4 +4,5 @@ My phone doesn't have a headphone jack and my car doesn't have wireless/bluetoot
 Plan for initial version powered via USB and later may move to using a battery if necessary.
 
 `hardware` - kicad schematics and pcb files
+
 `firmware` - esp32 firmware for board
